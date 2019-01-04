@@ -6,6 +6,8 @@ When a joke with friends goes to far and you're a developer. Yifftag is a python
 
 **Note : Program use Exif and its only work with jpg picture format.**
 
+![alt text](http://image.noelshack.com/fichiers/2019/01/5/1546609791-yifftag.jpg "Yifftag")
+
 ### Requirements
 
 * Python 3.5+
