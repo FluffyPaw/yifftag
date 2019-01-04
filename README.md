@@ -2,7 +2,7 @@
 
 ### Description
 
-Yifftag is a python program for adding e621 or inkbunny tags to your favorites foxes and kitten pictures. Its work by searching the md5 of each pictures on e621 and inkbunny API.
+When a joke with friends goes to far and you're a developer. Yifftag is a python program for adding e621 or inkbunny tags to your favorites foxes and kitten pictures. Its work by searching the md5 of each pictures on e621 and inkbunny API.
 
 **Note : Program use Exif and its only work with jpg picture format.**
 
